@@ -105,3 +105,16 @@ if(!true){
 else{
     console.log(false);
 }
+
+//condition statemenmt trafic light example
+
+var color = "red";
+if(color== "red"){
+    console.log("stop");
+}
+else if(color == "yellow"){
+    console.log("get ready");
+}
+else{
+    console.log("go");
+}
