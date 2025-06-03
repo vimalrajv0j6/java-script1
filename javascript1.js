@@ -42,3 +42,10 @@ function add(a,b){
 var a=add(10,20);
 console.log(a);
 
+//return type2
+
+function sub(a,b){
+    return(a-b);
+}
+var b = sub(10,5);
+console.log(b);
