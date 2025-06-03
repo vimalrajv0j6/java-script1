@@ -147,3 +147,14 @@ else if(score>50 && score<=70){
 else{
     console.log("great");
 }
+
+
+//to find odd or even
+
+var a = 10;
+if(a%2==0){
+    console.log("even number");
+}
+else{
+    console.log("odd number");
+}
