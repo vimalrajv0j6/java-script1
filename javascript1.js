@@ -178,3 +178,9 @@ for(count=1; count<=5; count=count+1)
     console.log("vimal");
 }
 
+
+//print 10 numbers
+
+for(num=1; num<=10; num=num+1){
+    console.log(num);
+}
