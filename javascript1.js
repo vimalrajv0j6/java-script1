@@ -184,3 +184,16 @@ for(count=1; count<=5; count=count+1)
 for(num=1; num<=10; num=num+1){
     console.log(num);
 }
+
+//print odd number
+
+for(num=1; num<=10; num=num+2)
+{
+    console.log(num);
+}
+
+//print number reverse
+
+for (num=10; num>=1; num=num-1){
+    console.log(num);
+}
