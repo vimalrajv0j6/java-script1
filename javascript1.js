@@ -118,3 +118,19 @@ else if(color == "yellow"){
 else{
     console.log("go");
 }
+
+//condition statement season of the year
+
+var season = "winter";
+if(season=="spring"){
+   console.log("enjoying the blooming flowers");
+}
+else if(season=="summer"){
+   console.log("have fun in the sun");
+}
+else if(season=="autumn"){
+   console.log("admire the colorful leaves");
+}
+else{
+   console.log("bundle up and stay warm");
+}
