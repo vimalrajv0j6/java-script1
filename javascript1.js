@@ -49,3 +49,14 @@ function sub(a,b){
 }
 var b = sub(10,5);
 console.log(b);
+
+
+//condition statement
+
+if(true){
+    console.log("its true");
+}
+
+else{
+    console.log("its faules");
+}
