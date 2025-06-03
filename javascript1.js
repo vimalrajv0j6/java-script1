@@ -60,3 +60,13 @@ if(true){
 else{
     console.log("its faules");
 }
+
+//condition statement practice 1
+
+var hw = true ;
+if(hw){
+    console.log("great job!");
+}
+else{
+    console.log("finish your homework before playing");
+}
