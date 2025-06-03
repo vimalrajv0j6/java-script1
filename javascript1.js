@@ -23,3 +23,11 @@ function add(a,b){
     console.log(a+b);
 }
 add(10,20);
+
+
+//two find area
+
+function area(length,breadth){
+    console.log(length*breadth);
+}
+area(10,10);
