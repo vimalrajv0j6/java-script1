@@ -168,3 +168,13 @@ if(letter=="a" && letter=="e" && letter=="i" && letter=="o" && letter=="u"){
 else{
     console.log("it is not a vowel letter");
 }
+
+
+
+//looping statements
+
+for(count=1; count<=5; count=count+1)
+{
+    console.log("vimal");
+}
+
