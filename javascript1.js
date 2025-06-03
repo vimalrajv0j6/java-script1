@@ -158,3 +158,13 @@ if(a%2==0){
 else{
     console.log("odd number");
 }
+
+//to find vowel or constant 
+
+var letter = "v";
+if(letter=="a" && letter=="e" && letter=="i" && letter=="o" && letter=="u"){
+    console.log("it is vowel letter");
+}
+else{
+    console.log("it is not a vowel letter");
+}
