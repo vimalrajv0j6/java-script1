@@ -31,3 +31,14 @@ function area(length,breadth){
     console.log(length*breadth);
 }
 area(10,10);
+
+
+//return type
+
+function add(a,b){
+    return(a+b);
+}
+
+var a=add(10,20);
+console.log(a);
+
