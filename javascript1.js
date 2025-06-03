@@ -134,3 +134,16 @@ else if(season=="autumn"){
 else{
    console.log("bundle up and stay warm");
 }
+
+//if else practice
+
+var score =50;
+if(score<=50){
+    console.log("you need to improve")
+}
+else if(score>50 && score<=70){
+    console.log("good job");
+}
+else{
+    console.log("great");
+}
