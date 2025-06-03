@@ -1,3 +1,4 @@
+//add two number
 var a = 5;
 var b = 10;
 function add(){
@@ -5,13 +6,20 @@ function add(){
 }
 add();
 
-
+//print favourite
 var factor = "dhanush";
 var fplayer = "dhoni";
 var fmovie = "puthuppettai"
 
 function favourite() {
-    console.log("Favourite Actor :" (factor));
-    console.log("Favourite Player :"(fplayer));
-    console.log("Favourite Movie :"(fmovie));
+    console.log("Favourite Actor :" +factor);
+    console.log("Favourite Player :"+fplayer);
+    console.log("Favourite Movie :"+fmovie);
 }
+favourite();
+
+//add parameter using function
+function add(a,b){
+    console.log(a+b);
+}
+add(10,20);
