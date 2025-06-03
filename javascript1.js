@@ -197,3 +197,17 @@ for(num=1; num<=10; num=num+2)
 for (num=10; num>=1; num=num-1){
     console.log(num);
 }
+
+//if and loop
+
+for(num=1; num<=10; num++){
+    if(num%2==0){
+        console.log(num);
+    }
+}
+
+//print 2 table
+
+for(num=1; num<=10; num++){
+    console.log(num+"x2="+(num*2));
+}
