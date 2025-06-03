@@ -95,3 +95,13 @@ if(a || b == 10){
 else{
     console.log(false);
 }
+
+
+//logical NOT
+
+if(!true){
+    console.log(true);
+}
+else{
+    console.log(false);
+}
