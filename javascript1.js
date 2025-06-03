@@ -70,3 +70,28 @@ if(hw){
 else{
     console.log("finish your homework before playing");
 }
+
+
+//logical AND
+
+var a = 10;
+var b = 20;
+
+if(a && b == 10){
+    console.log(true);
+}
+else{
+    console.log(false);
+}
+
+//logical OR
+
+var a = 10;
+var b = 20;
+
+if(a || b == 10){
+    console.log(true);
+}
+else{
+    console.log(false);
+}
